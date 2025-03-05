@@ -1,4 +1,4 @@
- npm create vite@latest
+PS D:\Nekitha M\React-10-Projects-project-3\React-10-Projects-project-3\project-3> npm create vite@latest
 Need to install the following packages:
 create-vite@6.3.1
 Ok to proceed? (y) y
@@ -57,5 +57,14 @@ PS D:\Nekitha M\React-10-Projects-project-3\React-10-Projects-project-3\project-
   ➜  Local:   http://localhost:5173/
   ➜  Network: use --host to expose
   ➜  press h to show help
+
+
+
+
+
+
+
+
+
 
 
